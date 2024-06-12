@@ -1,7 +1,10 @@
-#Classifying Brain Tumor Images using CNN & Transfer Learning
+# Classifying Brain Tumor Images using CNN & Transfer Learning
 **Hugo Hiraoka**
 
 In this notebook, we will build an image classifier that can distinguish Pituitary Tumor from "No Tumor" MRI Scan images.
+
+
+
 
 The dataset used in this notebook is available for download from Kaggle.
 Although this dataset actually has a total of 3,264 images belonging to 4 classes - Glioma Tumor, Meningioma Tumor, Pituitary Tumor and No Tumor, for this project we have only taken two classes, 
