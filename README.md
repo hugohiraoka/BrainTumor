@@ -3,7 +3,7 @@
 
 In this notebook, we will build an image classifier that can distinguish Pituitary Tumor from "No Tumor" MRI Scan images.
 
-
+![Brain Tumor](assets/images/brain-tumor1.jpg)
 
 
 The dataset used in this notebook is available for download from Kaggle.
@@ -15,3 +15,9 @@ In our problem, we will also be using Data Augmentation to prevent overfitting, 
 
 We will use this to build an image classification model for this problem statement, and then show how we can improve our performance by simply "importing" a popular pre-trained model 
 architecture and leveraging the idea of Transfer Learning.
+
+Model Training accuracy:
+![Brain Tumor](assets/images/brain-tumor2.jpg)
+
+Model Testing accuracy:
+![Brain Tumor](assets/images/brain-tumor3.jpg)
