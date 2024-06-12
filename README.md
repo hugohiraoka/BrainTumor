@@ -17,7 +17,10 @@ We will use this to build an image classification model for this problem stateme
 architecture and leveraging the idea of Transfer Learning.
 
 Model Training accuracy:
+
 ![Brain Tumor](assets/images/brain-tumor2.jpg)
 
+
 Model Testing accuracy:
+
 ![Brain Tumor](assets/images/brain-tumor3.jpg)
