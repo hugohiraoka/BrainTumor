@@ -16,10 +16,10 @@ In our problem, we will also be using Data Augmentation to prevent overfitting, 
 We will use this to build an image classification model for this problem statement, and then show how we can improve our performance by simply "importing" a popular pre-trained model 
 architecture and leveraging the idea of Transfer Learning.
 
-Model Training accuracy:
+**Model Training accuracy:**
 
 ![Brain Tumor](assets/images/brain-tumor2.jpg)
 
-Model Testing accuracy:
+**Model Testing accuracy:**
 
 ![Brain Tumor](assets/images/brain-tumor3.jpg)
